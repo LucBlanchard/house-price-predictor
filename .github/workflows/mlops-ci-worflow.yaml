@@ -1,7 +1,0 @@
-name: MLOPS CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
